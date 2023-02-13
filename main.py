@@ -1,2 +1,3 @@
 def newfunc():
-    return 5 + 6
+    j = 'ddd'
+    return 5 + 4
