@@ -1,3 +1,7 @@
 def newfuncfdd():
     k = 2
-    return 5 + k
+    b = 5
+    k=9
+    s ='ffdf'
+
+    return 9 + k
